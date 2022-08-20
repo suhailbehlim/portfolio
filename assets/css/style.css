@@ -206,6 +206,7 @@ a:hover {
 .socials .ico-circle {
   height: 40px;
   width: 40px;
+  padding-top: 4px;
   font-size: 1.2rem;
   border-radius: 50%;
   line-height: 1.6;
